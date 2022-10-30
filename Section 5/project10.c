@@ -38,6 +38,7 @@ int main() {
 			break;
 		default:
 			printf("No letter grade found!\n");
+			break;
 	}
 
 }
