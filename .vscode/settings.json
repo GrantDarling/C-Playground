@@ -1,6 +1,8 @@
 {
   "files.associations": {
     "stdio.h": "c",
-    "__locale": "c"
+    "__locale": "c",
+    "system_error": "c",
+    "random": "c"
   }
 }
